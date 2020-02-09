@@ -10,5 +10,3 @@ secondary.db
 secondary.log
 tertiary.db
 tertiary.log
-spike.cpp
-spike
